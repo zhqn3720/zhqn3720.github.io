@@ -1,6 +1,7 @@
 ---
 layout: post
 title: reviewboard安装记录(CentOS)
+description: reviewboard安装步骤详解
 categories: 运维
 tags: [reviewboard, python]
 ---
