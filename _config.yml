@@ -4,14 +4,14 @@ pygments: true
 
 markdown: kramdown
 
-title : Linusp's Blog
+title : 浅草未宁
 author :
-  name : Linusp
-  email : linusp1024@gmail.com
-  github : Linusp
+  name : zhqn3720
+  email : zhqn3720@gmail.com
+  github : zhqn3720
 
 
-production_url : http://linusp.github.io
+production_url : http://zhqn3720.github.io
 
 nav:
   - text: 分类
@@ -20,8 +20,6 @@ nav:
     url : /tags.html
   - text: 归档
     url : /archive.html
-  - text: IF
-    url : /if.html
   - text: 链接
     url : /link.html
   - text: 关于
