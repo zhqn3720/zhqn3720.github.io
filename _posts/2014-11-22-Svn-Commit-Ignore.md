@@ -1,6 +1,7 @@
 ---
 layout: post
 title: svn 命令行提交忽略修改或添加的文件
+description: 使用svn 命令，在进行提交操作时，忽略掉本地增加或者修改后的文件
 categories: 运维
 tags: [svn]
 ---
