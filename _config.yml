@@ -1,27 +1,23 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "MicroSimple's Blog"
+name: "Zhqn's Blog"
 markdown: rdiscount
 
-author: "MicroSimple"
+author: "Zhqn3720"
 description: "记录生活中的点点滴滴,铭刻生命中的些许感动 by Simple,爱生活爱Simple"
 keywords: "一点经验,一些体验,收获心得,无言感动,MicroSimple"
-disqus: "microsimple"
-mail: "yy.liu@foxmail.com"
+disqus: "zhqn320"
+mail: "zhqn3720@gmail.com"
 links: 
-  - title: "Weibo"
-    name: "SinaSimple"
-    url: "http://weibo.com/1842336184"
-    desc: "我的新浪微博"
   - title: "Github"
-    name: "MicroSimple"
-    url: "http://github.com/MicroSimple"
+    name: "zhqn3720"
+    url: "http://github.com/zhqn3720"
     desc: "我的GitHub"
   - title: "Mail"
-    name: "yy.liu@foxmail.com"
-    url: "mailto:yy.liu@foxmail.com"
-    desc: "给MicroSimple发邮件"
+    name: "zhqn3720@gmail.com"
+    url: "mailto:zhqn3720@gmail.com"
+    desc: "给zhqn3720发邮件"
 
 navigations: 
   - title: 归档
