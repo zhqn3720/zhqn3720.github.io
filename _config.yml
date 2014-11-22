@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "Zhqn's Blog"
+name: "浅草未宁de博客"
 markdown: rdiscount
 
 author: "zhqn3720"
