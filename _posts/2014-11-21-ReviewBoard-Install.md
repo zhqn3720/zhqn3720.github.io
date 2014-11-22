@@ -1,8 +1,7 @@
 ---
 layout: post
 title: reviewboard安装记录(CentOS)
-categories:
-- 运维
+guid: 2014112201
 tags:
 - reviewboard
 - python
